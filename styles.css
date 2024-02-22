@@ -1,0 +1,37 @@
+:root {
+    --gold: #FFD700;
+    --dark-blue: #111125;
+    --blue: #0074D9;
+    --light-grey: #e4dfdf;
+}
+
+
+.showcase {
+    background: var(--dark-blue) !important;
+}
+
+.about {
+    background: var(--light-grey);
+}
+
+.services {
+    background: var(--dark-blue);
+}
+
+.img {
+    width: 50px;
+}
+
+.hr-heading {
+    display: inline-block;
+    width: 3.5rem;
+    height: 0.125rem;
+    margin-top: 0.625rem;
+    border: none;
+    background-color: rgb(172, 172, 64);
+    opacity: 1;
+  }
+
+.footer {
+    background: var(--blue) !important;
+}
